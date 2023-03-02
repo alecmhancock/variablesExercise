@@ -1,0 +1,15 @@
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.csproj.AssemblyReference.cache
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.AssemblyInfoInputs.cache
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.AssemblyInfo.cs
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.csproj.CoreCompileInputs.cache
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/bin/Debug/net6.0/variablesExercise
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/bin/Debug/net6.0/variablesExercise.deps.json
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/bin/Debug/net6.0/variablesExercise.runtimeconfig.json
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/bin/Debug/net6.0/variablesExercise.dll
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/bin/Debug/net6.0/variablesExercise.pdb
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.dll
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/refint/variablesExercise.dll
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.pdb
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/variablesExercise.genruntimeconfig.cache
+/Users/alechancock/Documents/TrueCoders/Repos/variablesExercise/variablesExercise/obj/Debug/net6.0/ref/variablesExercise.dll
