@@ -20,27 +20,20 @@
             Console.WriteLine($"My dog, {petName} {lastIntial} is going to the vet for a checkup.\n" +
                 $"He's currently {age} years old, weighs {currentWeight} lbs, and is {currentHeight} inches tall.\n" +
                 $"It is {isSleepy} that he is always sleepy, so he may need more exercise. ");
+
+            // rewrite of previous userinput dialog
+           // string answer
+           // bool yes = true;
+           // bool no = false;
+           // Console.WriteLine($"is this enough information?");
+           // Console.ReadLine("");
+
+
+           // if answer = no
+            
+
+
         }
     }
 }
 
-// Trying to apply basic python knowledge here to create a user input dialog to end the program or ask a question
-// will fix when more info regarding syntax and structure is known
-
-
-    // namespace userInput
-    //{
-      //  public class Program
-        //{
-          //  static void Main(string[] args)
-            //{
-              /// <summary>
-              ///  Console.WriteLine($"Do you have any questions?");
-              /// </summary>
-               // bool yes = true;
-                // bool no = false;
-                // string answer = Console.ReadLine("");
-            //}
-        //}
-    //}
-//}
