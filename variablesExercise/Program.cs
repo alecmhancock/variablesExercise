@@ -25,10 +25,10 @@
 }
 
 // Trying to apply basic python knowledge here to create a user input dialog to end the program or ask a question
-//will fix when more info regarding syntax and structure is known
+// will fix when more info regarding syntax and structure is known
 
 
-    //namespace userInput
+    // namespace userInput
     //{
       //  public class Program
         //{
@@ -38,8 +38,8 @@
               ///  Console.WriteLine($"Do you have any questions?");
               /// </summary>
                // bool yes = true;
-                //bool no = false;
-                //string answer = Console.ReadLine("");
+                // bool no = false;
+                // string answer = Console.ReadLine("");
             //}
         //}
     //}
