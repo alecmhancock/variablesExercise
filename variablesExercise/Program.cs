@@ -22,15 +22,22 @@
                 $"It is {isSleepy} that he is always sleepy, so he may need more exercise. ");
 
             // rewrite of previous userinput dialog
-           // string answer
-           // bool yes = true;
-           // bool no = false;
-           // Console.WriteLine($"is this enough information?");
-           // Console.ReadLine("");
+            //string answer;
+            //bool yes = true;
+            //bool no = false;
+            //Console.WriteLine($"is this enough information?");
+            //Console.ReadLine("");
 
 
-           // if answer = no
-            
+            //if (answer = no) ;
+            //Console.WriteLine($"Thanks for reading about {petName}!");
+
+            //if (answer = yes) ;
+            //Console.WriteLine("Please state your question.");
+            //Console.ReadLine(answer);
+
+
+
 
 
         }
